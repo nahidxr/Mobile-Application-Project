@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847234724548",
+    "firebase_url": "https://doctor-information-syste-2613b.firebaseio.com",
+    "project_id": "doctor-information-syste-2613b",
+    "storage_bucket": "doctor-information-syste-2613b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847234724548:android:a08d7b2fd0568792cfcf91",
+        "android_client_info": {
+          "package_name": "com.example.homepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847234724548-5uhvpj8kjh9918lu5rpmt8ojtin29vmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-XB15AeJoGV4kbkmWlTjcrQp58Yx7Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847234724548-5uhvpj8kjh9918lu5rpmt8ojtin29vmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
